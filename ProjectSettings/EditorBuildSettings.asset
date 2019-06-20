@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_preload.unity
+    guid: 5b4beb9e5144c43ae993dfc8c2927bfc
+  - enabled: 1
+    path: Assets/Scenes/Postavke.unity
+    guid: 73d6f41d34ac3014b8fc054bac951745
+  - enabled: 1
+    path: Assets/Scenes/Exit.unity
+    guid: 032fd59c2fac45a428f3858b2a50573c
+  - enabled: 1
+    path: Assets/Scenes/Prepoznavanje boja.unity
+    guid: 6f28fd9c05d4f45079c34c9dba685bdb
+  - enabled: 1
+    path: Assets/Scenes/O aplikaciji.unity
+    guid: d28e02880c2aad8408e7183eb6445cd6
+  - enabled: 1
+    path: Assets/Scenes/Bojanje likova meni.unity
+    guid: bd1f6f1b4dc2516438126eb3933d3bf2
+  - enabled: 1
+    path: Assets/Scenes/Bojanje likova.unity
+    guid: 30fb66bcf354249499cbb9e427fa012d
+  - enabled: 1
+    path: Assets/Scenes/Pocetna dominantna.unity
+    guid: 44d7a9bcecb017a42ab626877176abb5
+  - enabled: 1
+    path: Assets/Scenes/PocetnaPopUp.unity
+    guid: bc01a2d9039d1394b92a944c88989783
+  - enabled: 1
+    path: Assets/Scenes/Pocetna.unity
+    guid: f99c52ed2d3d70348984484c36ea7607
+  - enabled: 1
+    path: Assets/Scenes/dominantna_boja.unity
+    guid: b5194d485d88f2d4ea9895d4c1d119ae
+  - enabled: 1
+    path: Assets/Scenes/Otkljucavanje vrata.unity
+    guid: 642f139179eaa4969bfed2eff0dda1e5
+  - enabled: 1
+    path: Assets/Scenes/PocetnaPopUp1.unity
+    guid: b48f3cd08af5c40e0a1124833c8cb10a
+  - enabled: 1
+    path: Assets/Scenes/INFO_welcome.unity
+    guid: 65ff5881d918c4ac987db5edd10aa94c
+  - enabled: 1
+    path: Assets/Scenes/INFO_return.unity
+    guid: 10f96ef65f0aa464795523ab3b99b31f
+  - enabled: 1
+    path: Assets/Scenes/INFO_reload.unity
+    guid: 342a767ab998146c9bddbafc4b550fbb
